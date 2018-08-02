@@ -1,0 +1,8 @@
+{
+  "name": "flashCards",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "b17d23d5"
+}
